@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color:black;
+    color:dodgerblue;
+}
+.list1 {
+    list-style: none;
+    font-family: 'Nerko One', cursive;
+    position: fixed;
+    z-index: 10;
+    top: 1px;
+    cursor: pointer;
+    text-align: center;
+    background-color: azure;
+    margin-top: 0px;
+    font-size: small;
+}
+.a1 {
+    color: black;
+    margin-right:313px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Nerko One', cursive;
+    display: inline;
+}
+
+.a1:hover {
+    background-color: darkred;
+}
+a {
+    text-decoration:none;
+    font-size: 30px;
+}
+#contacts {
+    width:100%;
+}
+.contactsmail h1 {
+    display: inline;
+}
+.home {
+    padding-top: 10px;
+    font-size: 40px;
+}
+img {
+    border-radius: 50%;
+}
+#info {
+    font-size: 30px;
+}
